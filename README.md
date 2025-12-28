@@ -1,7 +1,7 @@
 # Bike Purchasing Customer Analysis
  
 ## Table of Contents
-
+ 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
