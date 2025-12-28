@@ -13,7 +13,7 @@
 
 
 ## Project Overview:
-The goal of this project is to analyze the demographics and  behavior of customers who purchase bikes and to develop data-driven decision making for business growth and customer satisfaction. I explored key metrics such as average income, age distribution, and commute distance.
+Analyzed customer demographics and behavior to identify segments most likely to purchase bikes. Insights were translated into marketing and product recommendations aimed at improving customer targeting, satisfaction, and business growth.
 
 ## Data Sources:
 The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
